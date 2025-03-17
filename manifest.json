@@ -1,0 +1,13 @@
+{
+  "display_name": "Dynamic Status Bar",
+  "loading_order": 100,
+  "requires": [],
+  "js": "index.js",
+  "author": "Yuppc",
+  "version": "1.0.0",
+  "homePage": "https://github.com/Yuppc/st-status-bar-extension",
+  "auto_update": true,
+  "optional": false,
+  "allow_remote": true,
+  "description": "一个基于黑化值动态切换的角色状态栏扩展。"
+}
